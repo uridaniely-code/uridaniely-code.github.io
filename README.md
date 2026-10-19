@@ -7,5 +7,5 @@ Hello, my name is Uri Daniely. I want to learn python to help my reseacrh and la
 * In high-school I went to the Jerusalem Academy of Science and Arts (IASA)
 
 ## Let's Connect
-* Linkdein:[Uri Daniely](www.linkedin.com/in/uri-daniely-b86410209)
+* Linkdein: [Uri Daniely](www.linkedin.com/in/uri-daniely-b86410209)
 * E-mail: [uri.daniely@weizmann.ac.il](uri.daniely@weizmann.ac.il)
