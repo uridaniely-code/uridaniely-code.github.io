@@ -6,7 +6,9 @@ Hello, my name is Uri Daniely.
 B.Sc. in Biology (2022–2026)
 
 * Jerusalem Academy of Science and Arts (IASA)
+
   Boarding school for gifted students (2016–2019)
+
   Full matriculation certificate
 
 ## Work Experience
