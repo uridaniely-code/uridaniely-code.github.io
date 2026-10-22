@@ -24,7 +24,7 @@ I want to learn python to help my reseacrh and later understand and perform syst
 * I was Research Assistant in Dr. Uria Alcolombri’s Lab, The Hebrew University of Jerusalem
 * In high-school I went to the Jerusalem Academy of Science and Arts (IASA)
 
-![diatoms](https://www.mccrone.com/wp-content/uploads/2015/04/Diatoms_WF_Fig01.jpg)
+![diatoms](https://www.mccrone.com/wp-content/uploads/2015/04/Diatoms_WF_Fig01.jpg)\
 ~~don't read this quote~~
 > quote
 
