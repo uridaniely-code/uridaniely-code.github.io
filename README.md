@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Uri Daniely
+title: Uri Daniely
+description: Biology, Python & Computational Science
 
-### Biology · Python · Computational Science
-
+theme: jekyll-theme-cayman
 I'm interested in understanding living systems through scientific research, quantitative thinking, and computation.
 
 <p align="left">
