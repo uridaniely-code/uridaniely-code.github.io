@@ -1,11 +1,5 @@
-# 👋 Hi, I'm Uri Daniely
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=01234D&height=180&section=header&text=Curiosity%20drives%20discovery&fontSize=32&fontColor=ffffff&fontAlignY=40" width="100%" alt="Navy blue banner reading Curiosity drives discovery"/>
-</p>
-
-<p align="center">
-  <b>Biology · Python · Computational Science</b>
 </p>
 
 <p align="center">
