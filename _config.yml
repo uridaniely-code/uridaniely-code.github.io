@@ -1,0 +1,55 @@
+```yaml
+# Site settings
+title: "Uri Daniely"
+name: "Uri Daniely"
+description: >-
+  Biology, Python, and Computational Science.
+  Exploring the intersection of biological research, data analysis,
+  and computation.
+url: "https://uridaniely-code.github.io"
+baseurl: ""
+
+# Theme
+remote_theme: "mmistakes/minimal-mistakes"
+
+# Appearance
+minimal_mistakes_skin: "default"
+
+# Site author
+author:
+  name: "Uri Daniely"
+  bio: "Biology · Python · Computational Science"
+  location: "Israel"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/uri-daniely-b86410209"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/uridaniely-code"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:uri.daniely@weizmann.ac.il"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+
+# Plugins
+plugins:
+  - jekyll-include-cache
+
+# Navigation
+include:
+  - _pages
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+```
